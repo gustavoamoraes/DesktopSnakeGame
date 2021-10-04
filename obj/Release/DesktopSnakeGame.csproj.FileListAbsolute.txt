@@ -1,0 +1,9 @@
+C:\Users\Gustavo\source\repos\DesktopSnakeGame\bin\Release\DesktopSnakeGame.exe.config
+C:\Users\Gustavo\source\repos\DesktopSnakeGame\bin\Release\DesktopSnakeGame.exe
+C:\Users\Gustavo\source\repos\DesktopSnakeGame\bin\Release\DesktopSnakeGame.pdb
+C:\Users\Gustavo\source\repos\DesktopSnakeGame\obj\Release\DesktopSnakeGame.Form1.resources
+C:\Users\Gustavo\source\repos\DesktopSnakeGame\obj\Release\DesktopSnakeGame.Properties.Resources.resources
+C:\Users\Gustavo\source\repos\DesktopSnakeGame\obj\Release\DesktopSnakeGame.csproj.GenerateResource.cache
+C:\Users\Gustavo\source\repos\DesktopSnakeGame\obj\Release\DesktopSnakeGame.exe
+C:\Users\Gustavo\source\repos\DesktopSnakeGame\obj\Release\DesktopSnakeGame.pdb
+C:\Users\Gustavo\source\repos\DesktopSnakeGame\obj\Release\DesktopSnakeGame.csprojAssemblyReference.cache
